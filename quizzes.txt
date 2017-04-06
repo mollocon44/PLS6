@@ -67,16 +67,16 @@ My favorite color is (approximately):
     Light blue <-- wrong
     Pink
     Olive Green
-    None of these
+    None of these <-- wrong
 
 Flag this Question
 Question 8 0 pts
 My favorite color is (approximately)
-    Blue <-- wrong
+    Blue
     Red
     Yellow
     Green
-    None of these
+    None of these *
 
 Flag this Question
 Question 9 1 pts
