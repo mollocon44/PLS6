@@ -9,5 +9,9 @@ This course is designed to introduce students to the world of flowers. Blooming 
     * transcript of quiz questions and answers
 * testhints.txt
     * transcript of quiz hints dropped by prof in class
+* ArtAssmt
+    * Flower botanical are assignment
+    * Create hand-drawn image of a flower whose name begins with the same letter as the first letter in your "family" name
+    * Follow the provided formatting template
 * FlowerPics
     * Contains images of flowers that must be identified in tests
