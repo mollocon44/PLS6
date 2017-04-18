@@ -63,7 +63,7 @@ This flower is calledPLT2.jpg
 Flag this Question
 Question 7 0 pts
 My favorite color is (approximately):
-    Orange
+    Orange     <-- wrong
     Light blue <-- wrong
     Pink       <-- wrong
     Olive Green
